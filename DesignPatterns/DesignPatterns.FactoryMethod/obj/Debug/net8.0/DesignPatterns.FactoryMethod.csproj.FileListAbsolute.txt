@@ -1,0 +1,12 @@
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.FactoryMethod\bin\Debug\net8.0\DesignPatterns.FactoryMethod.deps.json
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.FactoryMethod\bin\Debug\net8.0\DesignPatterns.FactoryMethod.dll
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.FactoryMethod\bin\Debug\net8.0\DesignPatterns.FactoryMethod.pdb
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\DesignPatterns.FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\DesignPatterns.FactoryMethod.AssemblyInfoInputs.cache
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\DesignPatterns.FactoryMethod.AssemblyInfo.cs
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\DesignPatterns.FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\DesignPatterns.FactoryMethod.sourcelink.json
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\DesignPatterns.FactoryMethod.dll
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\refint\DesignPatterns.FactoryMethod.dll
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\DesignPatterns.FactoryMethod.pdb
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.FactoryMethod\obj\Debug\net8.0\ref\DesignPatterns.FactoryMethod.dll
