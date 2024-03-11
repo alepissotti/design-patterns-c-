@@ -1,0 +1,12 @@
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.AbstractFactory\bin\Debug\net8.0\DesignPatterns.AbstractFactory.deps.json
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.AbstractFactory\bin\Debug\net8.0\DesignPatterns.AbstractFactory.dll
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.AbstractFactory\bin\Debug\net8.0\DesignPatterns.AbstractFactory.pdb
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.AbstractFactory\obj\Debug\net8.0\DesignPatterns.AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.AbstractFactory\obj\Debug\net8.0\DesignPatterns.AbstractFactory.AssemblyInfoInputs.cache
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.AbstractFactory\obj\Debug\net8.0\DesignPatterns.AbstractFactory.AssemblyInfo.cs
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.AbstractFactory\obj\Debug\net8.0\DesignPatterns.AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.AbstractFactory\obj\Debug\net8.0\DesignPatterns.AbstractFactory.sourcelink.json
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.AbstractFactory\obj\Debug\net8.0\DesignPatterns.AbstractFactory.dll
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.AbstractFactory\obj\Debug\net8.0\refint\DesignPatterns.AbstractFactory.dll
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.AbstractFactory\obj\Debug\net8.0\DesignPatterns.AbstractFactory.pdb
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.AbstractFactory\obj\Debug\net8.0\ref\DesignPatterns.AbstractFactory.dll

@@ -1,3 +1,5 @@
-﻿using DesignPatterns.FactoryMethod;
+﻿using DesignPatterns.AbstractFactory;
+using DesignPatterns.FactoryMethod;
 
-FactoryMethod.GetResult();
+//FactoryMethod.GetResult();
+AbtractFactory.GetResult();
