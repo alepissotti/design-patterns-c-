@@ -26,3 +26,7 @@ Patrones de diseño aplicados a C#
 - Los constructores concretos ofrecen distintas implementaciones de los pasos de construcción (Los constructores concretos pueden crear productos que no siguen la interfaz común).
 - Los productos son los objetos resultantes. Los productos construidos por distintos objetos constructores no tienen que pertenecer a la misma jerarquía de clase o interfaz.
 - La clase Directora define el orden en el que se invocarán los pasos de construcción, por lo que puedes crear y reutilizar configuraciones específicas de los productos.
+
+4) - Prototype:
+- Se utiliza para la creación de objetos duplicados, mientras se mantiene el rendimiento.
+- Util cuando la creación del objeto es mas costosa que copiar un objeto existente.

@@ -10,7 +10,8 @@
         "dependencies": {
           "DesignPatterns.AbstractFactory": "1.0.0",
           "DesignPatterns.Builder": "1.0.0",
-          "DesignPatterns.FactoryMethod": "1.0.0"
+          "DesignPatterns.FactoryMethod": "1.0.0",
+          "DesignPatterns.Prototype": "1.0.0"
         },
         "runtime": {
           "DesignPatterns.dll": {}
@@ -29,6 +30,11 @@
       "DesignPatterns.FactoryMethod/1.0.0": {
         "runtime": {
           "DesignPatterns.FactoryMethod.dll": {}
+        }
+      },
+      "DesignPatterns.Prototype/1.0.0": {
+        "runtime": {
+          "DesignPatterns.Prototype.dll": {}
         }
       }
     }
@@ -50,6 +56,11 @@
       "sha512": ""
     },
     "DesignPatterns.FactoryMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DesignPatterns.Prototype/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

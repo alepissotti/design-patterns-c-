@@ -1,0 +1,12 @@
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.Prototype\bin\Debug\net8.0\DesignPatterns.Prototype.deps.json
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.Prototype\bin\Debug\net8.0\DesignPatterns.Prototype.dll
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.Prototype\bin\Debug\net8.0\DesignPatterns.Prototype.pdb
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.Prototype\obj\Debug\net8.0\DesignPatterns.Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.Prototype\obj\Debug\net8.0\DesignPatterns.Prototype.AssemblyInfoInputs.cache
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.Prototype\obj\Debug\net8.0\DesignPatterns.Prototype.AssemblyInfo.cs
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.Prototype\obj\Debug\net8.0\DesignPatterns.Prototype.csproj.CoreCompileInputs.cache
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.Prototype\obj\Debug\net8.0\DesignPatterns.Prototype.sourcelink.json
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.Prototype\obj\Debug\net8.0\DesignPatterns.Prototype.dll
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.Prototype\obj\Debug\net8.0\refint\DesignPatterns.Prototype.dll
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.Prototype\obj\Debug\net8.0\DesignPatterns.Prototype.pdb
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.Prototype\obj\Debug\net8.0\ref\DesignPatterns.Prototype.dll
