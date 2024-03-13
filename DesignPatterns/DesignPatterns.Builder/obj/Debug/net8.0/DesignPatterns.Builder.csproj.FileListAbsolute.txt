@@ -1,0 +1,12 @@
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.Builder\bin\Debug\net8.0\DesignPatterns.Builder.deps.json
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.Builder\bin\Debug\net8.0\DesignPatterns.Builder.dll
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.Builder\bin\Debug\net8.0\DesignPatterns.Builder.pdb
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.Builder\obj\Debug\net8.0\DesignPatterns.Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.Builder\obj\Debug\net8.0\DesignPatterns.Builder.AssemblyInfoInputs.cache
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.Builder\obj\Debug\net8.0\DesignPatterns.Builder.AssemblyInfo.cs
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.Builder\obj\Debug\net8.0\DesignPatterns.Builder.csproj.CoreCompileInputs.cache
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.Builder\obj\Debug\net8.0\DesignPatterns.Builder.sourcelink.json
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.Builder\obj\Debug\net8.0\DesignPatterns.Builder.dll
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.Builder\obj\Debug\net8.0\refint\DesignPatterns.Builder.dll
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.Builder\obj\Debug\net8.0\DesignPatterns.Builder.pdb
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns.Builder\obj\Debug\net8.0\ref\DesignPatterns.Builder.dll

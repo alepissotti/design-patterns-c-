@@ -18,3 +18,11 @@ Patrones de diseño aplicados a C#
 - Luego definimos que todas las variantes de productos sigan esas interfaces (Silla moderna, Silla minimalista, etc).
 - Se define la fábrica abstracta: Una interfaz con una lista de métodos de creación, para todos los productos que son parte de la familia de productos.
 - Creamos las clases concretas para cada variable diferente de familias de productos, basada en la interfaz.
+
+3) - Builder:
+
+- Nos permite construir objetos complejos paso a paso. Nos permite reproducir distintos tipos y representaciones de un objeto, a partir de un mismo código de construcción.
+- La interfaz constructora declara pasos de construcción del producto, que todos los tipos de objetos constructores tienen en común.
+- Los constructores concretos ofrecen distintas implementaciones de los pasos de construcción (Los constructores concretos pueden crear productos que no siguen la interfaz común).
+- Los productos son los objetos resultantes. Los productos construidos por distintos objetos constructores no tienen que pertenecer a la misma jerarquía de clase o interfaz.
+- La clase Directora define el orden en el que se invocarán los pasos de construcción, por lo que puedes crear y reutilizar configuraciones específicas de los productos.

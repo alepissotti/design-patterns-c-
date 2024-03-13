@@ -19,3 +19,5 @@ C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatte
 C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns\obj\Debug\net8.0\ref\DesignPatterns.dll
 C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns\bin\Debug\net8.0\DesignPatterns.AbstractFactory.dll
 C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns\bin\Debug\net8.0\DesignPatterns.AbstractFactory.pdb
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns\bin\Debug\net8.0\DesignPatterns.Builder.dll
+C:\Cursos y capacitaciones\Patrones de diseño C#\design-patterns-c-\DesignPatterns\DesignPatterns\bin\Debug\net8.0\DesignPatterns.Builder.pdb
